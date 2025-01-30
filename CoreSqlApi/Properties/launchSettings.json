@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CoreSqlApi": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

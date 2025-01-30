@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CassandraApi": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

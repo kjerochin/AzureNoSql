@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DataLakeStorage": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

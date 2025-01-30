@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NoSqlUploader": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GremlinApi": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
