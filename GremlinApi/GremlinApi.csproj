@@ -9,6 +9,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="appsettings.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="CosmosDB.Net" Version="3.1.1" />
     <PackageReference Include="CosmosDB.Net.Domain" Version="3.1.1" />
     <PackageReference Include="Gremlin.Net" Version="3.7.3" />
